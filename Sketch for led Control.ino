@@ -3,7 +3,7 @@
  
 const char* ssid  = "Pabitra_dhrn";
 const char* password = "1789211155";
-String host = "prashantrajtest.000webhostapp.com"; 
+String host = "techguysiot.000webhostapp.com"; 
 String url="/api/Led/read_all.php?id=1";
 String globalStatus;
 void setup()
