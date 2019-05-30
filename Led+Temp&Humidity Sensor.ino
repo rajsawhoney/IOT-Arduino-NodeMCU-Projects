@@ -1,6 +1,5 @@
 
 #include <ESP8266WiFi.h>
-//#include <Adafruit_Sensor.h>
 #include <Adafruit_Sensor.h>
 #include <DHT.h>
 #include <ArduinoJson.h>
